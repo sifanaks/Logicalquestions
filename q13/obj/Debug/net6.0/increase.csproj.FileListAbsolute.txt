@@ -1,0 +1,15 @@
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\bin\Debug\net6.0\increase.exe
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\bin\Debug\net6.0\increase.deps.json
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\bin\Debug\net6.0\increase.runtimeconfig.json
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\bin\Debug\net6.0\increase.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\bin\Debug\net6.0\increase.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.csproj.AssemblyReference.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.AssemblyInfoInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.AssemblyInfo.cs
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.csproj.CoreCompileInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\refint\increase.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\increase.genruntimeconfig.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\increase\obj\Debug\net6.0\ref\increase.dll

@@ -1,0 +1,15 @@
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\bin\Debug\net6.0\wheight.exe
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\bin\Debug\net6.0\wheight.deps.json
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\bin\Debug\net6.0\wheight.runtimeconfig.json
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\bin\Debug\net6.0\wheight.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\bin\Debug\net6.0\wheight.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.csproj.AssemblyReference.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.AssemblyInfoInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.AssemblyInfo.cs
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.csproj.CoreCompileInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\refint\wheight.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\wheight.genruntimeconfig.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\wheight\obj\Debug\net6.0\ref\wheight.dll
