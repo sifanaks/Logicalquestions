@@ -1,0 +1,15 @@
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\bin\Debug\net6.0\q8.exe
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\bin\Debug\net6.0\q8.deps.json
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\bin\Debug\net6.0\q8.runtimeconfig.json
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\bin\Debug\net6.0\q8.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\bin\Debug\net6.0\q8.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.csproj.AssemblyReference.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.AssemblyInfoInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.AssemblyInfo.cs
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.csproj.CoreCompileInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\refint\q8.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\q8.genruntimeconfig.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\q8\obj\Debug\net6.0\ref\q8.dll
