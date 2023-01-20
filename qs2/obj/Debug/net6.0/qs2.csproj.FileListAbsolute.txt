@@ -1,0 +1,15 @@
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\bin\Debug\net6.0\qs2.exe
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\bin\Debug\net6.0\qs2.deps.json
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\bin\Debug\net6.0\qs2.runtimeconfig.json
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\bin\Debug\net6.0\qs2.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\bin\Debug\net6.0\qs2.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.csproj.AssemblyReference.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.AssemblyInfoInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.AssemblyInfo.cs
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.csproj.CoreCompileInputs.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\refint\qs2.dll
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.pdb
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\qs2.genruntimeconfig.cache
+C:\Users\sifana.ks\Desktop\.net\assessment\qs2\obj\Debug\net6.0\ref\qs2.dll
