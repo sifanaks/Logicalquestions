@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\merge.csproj",
-      "projectName": "merge",
-      "projectPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\merge.csproj",
+      "projectUniqueName": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\q12.csproj",
+      "projectName": "q12",
+      "projectPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\q12.csproj",
       "packagesPath": "C:\\Users\\sifana.ks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\obj\\",
+      "outputPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sifana.ks\\AppData\\Roaming\\NuGet\\NuGet.Config",

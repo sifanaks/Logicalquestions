@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\merge.csproj": {}
+    "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\merge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\merge.csproj": {
+    "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\merge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\merge.csproj",
+        "projectUniqueName": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\merge.csproj",
         "projectName": "merge",
-        "projectPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\merge.csproj",
+        "projectPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\merge.csproj",
         "packagesPath": "C:\\Users\\sifana.ks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\merge\\obj\\",
+        "outputPath": "C:\\Users\\sifana.ks\\Desktop\\.net\\assessment\\q12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sifana.ks\\AppData\\Roaming\\NuGet\\NuGet.Config",
